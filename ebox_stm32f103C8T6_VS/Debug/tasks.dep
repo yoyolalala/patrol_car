@@ -1,0 +1,16 @@
+Debug/tasks.o: os/FreeRTOS/Source/tasks.c
+Debug/tasks.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+Debug/tasks.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+Debug/tasks.o: os\FreeRTOS\Source\include\FreeRTOS.h
+Debug/tasks.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+Debug/tasks.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+Debug/tasks.o: user\FreeRTOSConfig.h
+Debug/tasks.o: os\FreeRTOS\Source\include\projdefs.h
+Debug/tasks.o: os\FreeRTOS\Source\include\portable.h
+Debug/tasks.o: os\FreeRTOS\Source\include\deprecated_definitions.h
+Debug/tasks.o: os\FreeRTOS\Source\portable\RVDS\ARM_CM3\portmacro.h
+Debug/tasks.o: os\FreeRTOS\Source\include\mpu_wrappers.h
+Debug/tasks.o: os\FreeRTOS\Source\include\task.h
+Debug/tasks.o: os\FreeRTOS\Source\include\list.h
+Debug/tasks.o: os\FreeRTOS\Source\include\timers.h
+Debug/tasks.o: os\FreeRTOS\Source\include\StackMacros.h

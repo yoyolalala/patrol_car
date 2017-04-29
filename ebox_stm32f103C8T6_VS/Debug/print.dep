@@ -1,0 +1,13 @@
+Debug/print.o: common/util/print.cpp
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+Debug/print.o: common/util/Print.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\inttypes.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+Debug/print.o: common/util/WString.h
+Debug/print.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\ctype.h
+Debug/print.o: common/util/itoa.h
+Debug/print.o: common/util/dtostrf.h
+Debug/print.o: common/util/Printable.h

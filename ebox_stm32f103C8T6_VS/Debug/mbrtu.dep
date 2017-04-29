@@ -1,0 +1,13 @@
+Debug/mbrtu.o: common/FreeModbus/modbus/rtu/mbrtu.c
+Debug/mbrtu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+Debug/mbrtu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+Debug/mbrtu.o: common\FreeModbus\port\port.h
+Debug/mbrtu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\assert.h
+Debug/mbrtu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\inttypes.h
+Debug/mbrtu.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+Debug/mbrtu.o: common\FreeModbus\modbus\include\mb.h
+Debug/mbrtu.o: common\FreeModbus\modbus\include\mbport.h
+Debug/mbrtu.o: common\FreeModbus\modbus\include\mbproto.h
+Debug/mbrtu.o: common/FreeModbus/modbus/rtu/mbrtu.h
+Debug/mbrtu.o: common\FreeModbus\modbus\include\mbframe.h
+Debug/mbrtu.o: common/FreeModbus/modbus/rtu/mbcrc.h
