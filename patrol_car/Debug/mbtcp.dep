@@ -1,0 +1,13 @@
+Debug/mbtcp.o: common/FreeModbus/modbus/tcp/mbtcp.c
+Debug/mbtcp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+Debug/mbtcp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+Debug/mbtcp.o: common\FreeModbus\port\port.h
+Debug/mbtcp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\assert.h
+Debug/mbtcp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\inttypes.h
+Debug/mbtcp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+Debug/mbtcp.o: common\FreeModbus\modbus\include\mb.h
+Debug/mbtcp.o: common\FreeModbus\modbus\include\mbport.h
+Debug/mbtcp.o: common\FreeModbus\modbus\include\mbproto.h
+Debug/mbtcp.o: common\FreeModbus\modbus\include\mbconfig.h
+Debug/mbtcp.o: common/FreeModbus/modbus/tcp/mbtcp.h
+Debug/mbtcp.o: common\FreeModbus\modbus\include\mbframe.h

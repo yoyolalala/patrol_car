@@ -1,3 +1,0 @@
-Debug/dtostrf.o: common/util/dtostrf.c
-Debug/dtostrf.o: common/util/dtostrf.h
-Debug/dtostrf.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h

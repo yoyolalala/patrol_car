@@ -1,0 +1,2 @@
+Debug/core_cm3.o: mcu/stm32f10x/libraries/CMSIS/CM3/CoreSupport/core_cm3.c
+Debug/core_cm3.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h

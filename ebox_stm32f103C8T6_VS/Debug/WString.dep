@@ -1,7 +1,0 @@
-Debug/WString.o: common/util/WString.cpp
-Debug/WString.o: common/util/WString.h
-Debug/WString.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-Debug/WString.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
-Debug/WString.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\ctype.h
-Debug/WString.o: common/util/itoa.h
-Debug/WString.o: common/util/dtostrf.h

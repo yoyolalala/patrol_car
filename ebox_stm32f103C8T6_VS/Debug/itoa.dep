@@ -1,3 +1,0 @@
-Debug/itoa.o: common/util/itoa.c
-Debug/itoa.o: common/util/itoa.h
-Debug/itoa.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

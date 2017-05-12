@@ -1,2 +1,0 @@
-Debug/ringbuf.o: common/util/ringbuf.cpp
-Debug/ringbuf.o: common/util/ringbuf.h

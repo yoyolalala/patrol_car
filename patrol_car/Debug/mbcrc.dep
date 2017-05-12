@@ -1,0 +1,5 @@
+Debug/mbcrc.o: common/FreeModbus/modbus/rtu/mbcrc.c
+Debug/mbcrc.o: common\FreeModbus\port\port.h
+Debug/mbcrc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\assert.h
+Debug/mbcrc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\inttypes.h
+Debug/mbcrc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h

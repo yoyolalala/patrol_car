@@ -1,0 +1,10 @@
+Debug/mbutils.o: common/FreeModbus/modbus/functions/mbutils.c
+Debug/mbutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+Debug/mbutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+Debug/mbutils.o: common\FreeModbus\port\port.h
+Debug/mbutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\assert.h
+Debug/mbutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\inttypes.h
+Debug/mbutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+Debug/mbutils.o: common\FreeModbus\modbus\include\mb.h
+Debug/mbutils.o: common\FreeModbus\modbus\include\mbport.h
+Debug/mbutils.o: common\FreeModbus\modbus\include\mbproto.h
