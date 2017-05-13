@@ -653,12 +653,6 @@
     <ClCompile Include="common\edriver\PID.cpp">
       <Filter>Resource files\Source files\common\edriver</Filter>
     </ClCompile>
-    <ClCompile Include="common\edriver\encoder_motor.cpp">
-      <Filter>Resource files\Source files\common\edriver</Filter>
-    </ClCompile>
-    <ClCompile Include="common\edriver\tb6612fng.cpp">
-      <Filter>Resource files\Source files\common\edriver</Filter>
-    </ClCompile>
     <ClCompile Include="common\edriver\tb6612.cpp">
       <Filter>Resource files\Source files\common\edriver</Filter>
     </ClCompile>
@@ -1246,17 +1240,14 @@
     <ClInclude Include="common\edriver\PID.hpp">
       <Filter>Header files\common\edriver</Filter>
     </ClInclude>
-    <ClInclude Include="common\edriver\encoder_motor.h">
-      <Filter>Header files\common\edriver</Filter>
-    </ClInclude>
-    <ClInclude Include="common\edriver\tb6612fng.h">
-      <Filter>Header files\common\edriver</Filter>
-    </ClInclude>
     <ClInclude Include="common\edriver\scan.hpp">
       <Filter>Header files\common\edriver</Filter>
     </ClInclude>
     <ClInclude Include="common\edriver\tb6612.h">
       <Filter>Header files\common\edriver</Filter>
+    </ClInclude>
+    <ClInclude Include="common\edriver\point_led.h">
+      <Filter>Header files\common</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

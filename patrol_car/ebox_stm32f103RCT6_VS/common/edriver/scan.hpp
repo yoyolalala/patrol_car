@@ -10,15 +10,17 @@
 #define r4 PA7//将红外从左至右定义为l1,l2,l3,l4,r1,r2,r3,r4
 class Scan
 {
-public:
 	int compare(uint16_t v)
 	{
-		if (v >= 1500)
-			return 0;//线外
-		else return 1;
+			if (v >= 1500)
+				return 1;//线上
+			else return 0;
 	}
-	uint8_t scan_init()
+    uint8_t scanvalue;
+public:
+	uint8_t scanRead()
 	{
+		scanvalue = 0x00;
 		r1.mode(AIN); r2.mode(AIN); r3.mode(AIN); r4.mode(AIN); l1.mode(AIN); l2.mode(AIN); l3.mode(AIN); l4.mode(AIN);//模拟输入模式
 		uint16_t r11 = analog_read_voltage(&r1);//单位为mv 比较时与1500比较
 		uint16_t r21 = analog_read_voltage(&r2);
@@ -28,7 +30,7 @@ public:
 		uint16_t l21 = analog_read_voltage(&l2);
 		uint16_t l31 = analog_read_voltage(&l3);
 		uint16_t l41 = analog_read_voltage(&l4);//读出电压值 3300为参考
-		uint8_t scanvalue = 0x00;
+	
 		int a = this->compare(r11);
 		int b = this->compare(r21);
 		int c = this->compare(r31);
